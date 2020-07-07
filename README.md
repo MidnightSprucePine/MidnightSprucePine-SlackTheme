@@ -1,1 +1,3 @@
 # MidnightSprucePine-SlackTheme
+
+# Coming soon!
